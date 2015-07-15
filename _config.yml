@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thebraindump.github.io
+title: The Brain Dump
+tagline: Factual Bric-a-Brac
+description: My awesome new site
+paginate: 5
